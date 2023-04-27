@@ -1,0 +1,2 @@
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\ServicioMonedas\ServicioMonedas\obj\Debug\Conversor.csproj.AssemblyReference.cache
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\ServicioMonedas\ServicioMonedas\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
