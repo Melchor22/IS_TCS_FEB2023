@@ -1,0 +1,15 @@
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\bin\Debug\net6.0\LINQColeccion.exe
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\bin\Debug\net6.0\LINQColeccion.deps.json
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\bin\Debug\net6.0\LINQColeccion.runtimeconfig.json
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\bin\Debug\net6.0\LINQColeccion.dll
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\bin\Debug\net6.0\LINQColeccion.pdb
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.csproj.AssemblyReference.cache
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.AssemblyInfoInputs.cache
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.AssemblyInfo.cs
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.csproj.CoreCompileInputs.cache
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.dll
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\refint\LINQColeccion.dll
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.pdb
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\LINQColeccion.genruntimeconfig.cache
+D:\UV\6° Semestre\Tecnologías para la Construcción de Software\Actividades\Programas\LINQTest\LINQColeccion\obj\Debug\net6.0\ref\LINQColeccion.dll
